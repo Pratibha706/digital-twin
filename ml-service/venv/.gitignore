@@ -1,0 +1,14 @@
+node_modules/
+venv/
+.env
+__pycache__/
+*.pyc
+dist/
+.DS_Store
+```
+
+Open your root `.gitignore` file and make sure these lines are in there, then save.
+
+**After the push, visit:**
+```
+https://github.com/Pratibha706/digital-twin
